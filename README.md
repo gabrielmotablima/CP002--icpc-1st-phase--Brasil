@@ -1,7 +1,7 @@
-<div style="display:flex; align-items:center">
-  <img src="./logo_icpc.png"/>
-  <img src="./logo_sbc.png"/>
-  <img src="./logo_event.jpg"/>
+<div>
+  <img src="./logo_sbc.png" width=250/>
+  <img src="./logo_event.jpg" width=250/>
+  <img src="./logo_icpc.png" width=500/>
 </div>
 
 # 📌 Description
