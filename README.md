@@ -1,7 +1,7 @@
 <div>
-  <img src="./logo_sbc.png" width=250/>
   <img src="./logo_event.jpg" width=250/>
-  <img src="./logo_icpc.png" width=500/>
+  <img src="./logo_icpc.png" width=700/>
+  <img src="./logo_sbc.png"/>
 </div>
 
 # 📌 Description
