@@ -1,8 +1,8 @@
-<div>
-  <img src="./logo_icpc.png" width=500/>
+<section style="display: flex; flex-direction: column; align-items: center;">
   <img src="./logo_event.jpg" width=150/>
   <img src="./logo_sbc.png"/>
-</div>
+  <img src="./logo_icpc.png" width=400/>
+</section>
 
 # 📌 Description
 
