@@ -1,4 +1,4 @@
-<section style="display: flex; flex-direction: column; align-items: center;">
+<section style="display: flex; flex-direction: row;">
   <img src="./logo_event.jpg" width=150/>
   <img src="./logo_sbc.png"/>
   <img src="./logo_icpc.png" width=400/>
