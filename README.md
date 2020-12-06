@@ -1,8 +1,8 @@
-<section style="display: flex; flex-direction: row;">
+<div>
   <img src="./logo_event.jpg" width=150/>
   <img src="./logo_sbc.png"/>
   <img src="./logo_icpc.png" width=400/>
-</section>
+</div>
 
 # 📌 Description
 
